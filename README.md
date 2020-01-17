@@ -25,45 +25,21 @@ This app brings you a fun and challenging game, based on longtime favorite game 
 * Danielle  -  DB master, Server builder - https://github.com/daniellekeefe
 * Jo  -  Functions builder, Git manager - https://github.com/zhaoyu-qiao
 
-## Demo Link:
+## Heroku Link:
+Click on the below link, go to the home page and click Enter to play!
 
 
-## Database Screenshots
+## Database Screenshot
 
 ### Authenticated Users (sample users):
 ![Authenticated Users](/images-ReadMe/authenticated-users-db.png) 
 
 
-### Survey Questions:
-![Survey Questions](/images-ReadMe/)      
 
 
-### User Scores:
-![User Scores](/images-ReadMe/) 
-
-
-### User Survey Question Suggestions:
-![User Survey Question Suggestions](/images-ReadMe/) 
+## The Game Board Screenshot
+![Authenticated Users](/images-ReadMe/game-board.png) 
 
 
 
-## The Game Screenshots
-
-### Home Page:
-![Home Page](/images-ReadMe/) 
-
-
-### Sign Up and Sign In Page:
-![Sign Up and Sign In Page](/images-ReadMe/) 
-
-
-### Family Feud Game Board:
-![Family Feud Game Board](/images-ReadMe/) 
-
-
-### Family Feud Socre Board:
-![Family Feud Socre Board](/images-ReadMe/) 
-
-
-### User Survey Question Suggestions Page:
-![User Survey Question Suggestions Page](/images-ReadMe/) 
+ 
