@@ -30,39 +30,40 @@ This app brings you a fun and challenging game, based on longtime favorite game 
 
 ## Database Screenshots
 
-### Authenticated Users 
+### Authenticated Users (sample users):
 ![Authenticated Users](/images-ReadMe/authenticated-users-db.png) 
 
 
-### Survey Questions
+### Survey Questions:
 ![Survey Questions](/images-ReadMe/)      
 
 
-### User Scores
+### User Scores:
 ![User Scores](/images-ReadMe/) 
 
 
-### User Survey Question Suggestions
+### User Survey Question Suggestions:
 ![User Survey Question Suggestions](/images-ReadMe/) 
+
 
 
 ## The Game Screenshots
 
-### Home Page
+### Home Page:
 ![Home Page](/images-ReadMe/) 
 
 
-### Sign Up and Sign In Page
+### Sign Up and Sign In Page:
 ![Sign Up and Sign In Page](/images-ReadMe/) 
 
 
-### Family Feud Game Board
+### Family Feud Game Board:
 ![Family Feud Game Board](/images-ReadMe/) 
 
 
-### Family Feud Socre Board
+### Family Feud Socre Board:
 ![Family Feud Socre Board](/images-ReadMe/) 
 
 
-### User Survey Question Suggestions Page
+### User Survey Question Suggestions Page:
 ![User Survey Question Suggestions Page](/images-ReadMe/) 
