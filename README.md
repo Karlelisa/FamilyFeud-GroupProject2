@@ -17,7 +17,7 @@ This app brings you a fun and challenging game, based on longtime favorite game 
 * Back End: JS, JQuery, Reg Ex, JSON, Local Storage, Node.JS
 * DB: MySqlWorkbench, Sequelize and Express. 
 * API: SQL (Questions, User, User Scores)
-* Authentication: Passport.js, Bcrypt.js
+* Authentication: Passport.js
 * Deploy: Heroku
 
 ## Amazing Team Members
