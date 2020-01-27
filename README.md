@@ -27,6 +27,7 @@ This app brings you a fun and challenging game, based on longtime favorite game 
 
 ## Heroku Link:
 Click on the below link, go to the home page and click Enter to play!
+(The link is coming soon. Please check back later.)
 
 
 ## Database Screenshot
